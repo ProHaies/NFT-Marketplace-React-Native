@@ -1,0 +1,9 @@
+import React from 'react'
+import {Text} from 'react-native'
+const Home = () => {
+  return (
+   <Text>123</Text>
+  )
+}
+
+export default Home
