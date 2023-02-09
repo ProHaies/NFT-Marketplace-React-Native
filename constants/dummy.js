@@ -30,6 +30,12 @@ const NFTData = [
         price: 4.75,
         image: assets.person04,
         date: "December 31, 2019 at 3:50 PM",
+      }, {
+        id: "BID-14",
+        name: "Nqkuv random",
+        price: 4.75,
+        image: assets.person01,
+        date: "December 31, 2019 at 3:50 PM",
       },
     ],
   },
